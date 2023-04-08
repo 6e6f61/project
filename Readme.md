@@ -1,0 +1,3 @@
+# project
+
+Nix project templates.

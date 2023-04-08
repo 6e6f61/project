@@ -1,0 +1,5 @@
+# General
+/**/result
+/**/flake.lock
+# Rust
+/**/target
